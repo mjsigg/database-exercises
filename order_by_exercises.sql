@@ -11,7 +11,6 @@ order by first_name asc, first_name desc;
 select last_name
 from employees
 where last_name like 'e%';
-
 # select last_name
 # from employees
 # where last_name like 'e%' or last_name like '%e';
