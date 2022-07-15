@@ -11,3 +11,4 @@ CREATE TABLE albums(
     genre TEXT,
     PRIMARY KEY (id)
 );
+
